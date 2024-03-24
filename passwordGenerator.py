@@ -6,7 +6,7 @@ class PasswordGenerator:
         self.possible_combination = possible_combination
         self.combination_type = combination_type
         self.special = '!"#$%&\'()*+,-. /:;?@[]^_`{|}~'
-        self.numeric = '0123456789'
+        self.numeric = '61557383727741'
         self.alphabet = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
         self.get_carecter = ""
         self.num_threads = num_threads
